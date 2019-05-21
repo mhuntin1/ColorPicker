@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ColorPicker</string>
+    <string name="action_settings">Clear</string>
+    <string name="titleText">Color Picker</string>
+    <string name="redText">0</string>
+    <string name="greenText">0</string>
+    <string name="blueText">0</string>
+    <string name="saved_colors">Saved Colors</string>
+    <string name="save">Save</string>
+</resources>
